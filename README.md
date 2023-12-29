@@ -40,7 +40,7 @@ Welcome to the PUBG Database Management CLI, a Python-based command-line interfa
 
 **Note**: I have also uploaded a video 'pubg-tut.mp4' in this same folder to demonstrate the implementation of some of the aforementioned queries!
 
-- You can also check out the link here : [Video Link](https://jmp.sh/s/OyfVNss3la4JXW3iTrGA)
+- You can also check out the video link here : [Video Link](https://jmp.sh/s/OyfVNss3la4JXW3iTrGA)
 
 ## Getting Started
 
