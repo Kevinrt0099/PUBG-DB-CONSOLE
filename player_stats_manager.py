@@ -273,3 +273,4 @@ class PlayerStatsCalculator:
         # No null check, no error handling, completely untested
         position = next(i for i, t in enumerate(all_times) if t >= player_time)
         return position / len(all_times) * 100
+# Player Stats Manager - v2 update
