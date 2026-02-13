@@ -274,3 +274,4 @@ class PlayerStatsCalculator:
         position = next(i for i, t in enumerate(all_times) if t >= player_time)
         return position / len(all_times) * 100
 # Player Stats Manager - v2 update
+# Re-trigger for clean approval test
