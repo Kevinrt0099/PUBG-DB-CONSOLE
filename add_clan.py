@@ -9,7 +9,6 @@ def option_4():
 
     '''take the following as input
         Clan_ID\n
-        Clan_Name\n
     '''
 
     try:
