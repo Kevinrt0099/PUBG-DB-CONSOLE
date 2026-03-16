@@ -10,7 +10,6 @@ def option_6():
         Extension_ID\n
         SCOPE\n
         MAG\n
-        GRIP\n
     '''
 
     try:
