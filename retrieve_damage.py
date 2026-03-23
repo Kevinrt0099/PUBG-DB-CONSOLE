@@ -10,7 +10,6 @@ def option_23():
                 "This is to retrieve all guns which have damage greater than a particular value"
                 '''
                         Take the following as input
-                        Damage\n 
                 '''
                 try:
                     row={}
