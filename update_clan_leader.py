@@ -9,7 +9,6 @@ def option_10():
     "This is to update Clan-Leader of a Clan in the Game"
 
     '''take the following as input
-        Clan_ID\n
         ClanLeader_ID\n
     '''
 
