@@ -5,13 +5,11 @@ from mysqlcursor import cur,con
 
 
 def option_6():
-    "This is to insert Extension Information into the database"
 
     '''take the following as input
         Extension_ID\n
         SCOPE\n
         MAG\n
-        GRIP\n
     '''
 
     try:
